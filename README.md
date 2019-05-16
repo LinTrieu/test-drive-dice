@@ -1,5 +1,13 @@
-Repo for Project: TDD a single object
+# TDD a single object
 
+Makers Academy: Week 3 - Solo Exercise
+Location of Dice Class challenge:
+https://diode.makersacademy.com/students/alicelieutier/projects/813
+Location of TDD repo:
+https://github.com/makersacademy/course/blob/master/sequence/apprenticeship/week03.md
+
+## User stories
+ 
  Builds a single Dice object based on the following user stories: 
 
 As a board game player,
@@ -22,6 +30,8 @@ As a board game player,
 So that I know what my score was when I rolled several dice
 I want to get the result of each dice roll
 
+## Authors
+- Lin Trieu
 
 
 
