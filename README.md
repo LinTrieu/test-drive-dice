@@ -3,6 +3,7 @@
 Makers Academy: Week 3 - Solo Exercise
 Location of Dice Class challenge:
 https://diode.makersacademy.com/students/alicelieutier/projects/813
+
 Location of TDD repo:
 https://github.com/makersacademy/course/blob/master/sequence/apprenticeship/week03.md
 
